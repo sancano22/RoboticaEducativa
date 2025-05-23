@@ -105,16 +105,20 @@ En Mechatronicstore.cl
 
 #### 5. Programacion aplicada a la Robótica Educativa
 **Objetivo de la sesión:** Programar un kit de robótica educativa a partir de la aplicación de conocimientos básicos de programación por bloques. 
+
 **Descripción de la sesión:** Se demuestran conceptos de programación a través de bloques, seguido de instrucciones prácticas para programar el robot ensamblado. Posteriormente, el kit se conectará al computador utilizando Arduino, culminando en la aplicación tangible de la programación en el proyecto.
 
 #### 6. Laboratorio de Innovación Educativa
 **Objetivo de la sesión:** Probar los kits de robótica en virtud del diseño de planificación didáctica.
+
 **Descripción de la sesión:** Cada participante demuestra el funcionamiento de su kit en relación con el proyecto STEAM diseñado. Posteriormente reciben retroalimentación de sus pares y docentes a cargo del taller para introducir mejoras en el ámbito didáctico, electrónico y/o de programación.
 
 #### 7. Inteligencia Artificial en Robótica Educativa
-**Objetivo de la sesión:** Explorar alternativas de programación del kit de robótica a partir del uso de Inteligencia Artificial
+**Objetivo de la sesión:** Explorar alternativas de programación del kit de robótica a partir del uso de Inteligencia Artificial.
+
 **Descripción de la sesión:** Se demuestran conceptos de programación con IA aplicados al kit de robótica. Luego de ello, se exploran oportunidades de mejora de los proyectos en base al uso de IA.
 
 #### 8. Feria de Robótica Educativa Virtual
 **Objetivo de la sesión:** Visibilizar y compartir los proyectos desarrollados por los participantes del diplomado, promoviendo el aprendizaje colaborativo, la creatividad y la aplicación de la robótica educativa en contextos reales.
+
 **Descripción de la sesión:** Los participantes exponen sus proyectos STEM en una feria de robótica educativa dando cuenta de sus conocimientos teórico-prácticos en didáctica, electrónica y programación aplicados al kit.
