@@ -61,7 +61,7 @@ Capacitar al Profesorado Escolar en el diseño, construcción y programación de
 - Trabajo guiado por docentes expertos.
 - Evaluaciones centradas en tus avances y propuestas.
 
-
+-----
 ## Kit de Robótica Educativa
  - Arduino Nano o Arduino Nano IoT
  - 2 mini-servos SG90
@@ -82,7 +82,7 @@ Capacitar al Profesorado Escolar en el diseño, construcción y programación de
 **¿Dónde puedes adquirir el Kit?**
 En Mechatronicstore.cl
 
-
+----
 
 ## Módulos
 #### 1. Innovación Tecnológica en el Aula desde una perspectiva STEM
