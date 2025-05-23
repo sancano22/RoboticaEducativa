@@ -47,7 +47,7 @@ A docentes como tú, que creen en una educación más activa, más práctica, m�
         (con break de 15 minutos por sesión)
     Compatible con tu horario laboral
 - Público objetivo: Profesorado Escolar, e interesado en aprender en robótica educativa.
------
+
 ## Objetivos
 **🎯 Objetivo General**
 Capacitar al Profesorado Escolar en el diseño, construcción y programación de sistemas de robótica educativa, integrando didáctica, electrónica e informática contextualizadas al aula.
@@ -57,7 +57,7 @@ Capacitar al Profesorado Escolar en el diseño, construcción y programación de
 - Capacitar en diseño, impresión 3D y electrónica aplicada.
 - Aplicar programación (incluida inteligencia artificial) a proyectos robóticos educativos.
 
-----
+
 ## 💡 Metodología Práctica
 - Aprender haciendo: proyectos reales desde la primera semana.
 - Trabajo guiado por docentes expertos.
