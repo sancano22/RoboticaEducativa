@@ -99,7 +99,7 @@ En Mechatronicstore.cl
 **Descripción de la sesión:** Se muestran los distintos componentes del robot y los elementos clave en su diseño, analizando las instrucciones de ejecución de este a partir de un ejemplo práctico. Posteriormente se identifican posibilidades de modificación de las piezas del robot en función de las necesidades de uso.
 
 #### 4. Electrónica Básica aplicada a la robótica
-**Objetivo de la sesión:** Construir un kit de robótica educativa a partir de la aplicación de conocimientos de electrónica básica. 
+**Objetivo de la sesión:** Construir un kit de robótica educativa a partir de la aplicación de conocimientos de electrónica básica
 **Descripción de la sesión:** Se detallan conceptos básicos de electrónica, incluyendo sensores, actuadores, lógica digital y protoboard, además de una introducción a la programación de Arduino. En segunda instancia Los participantes comenzarán a construir sus kits, comprendiendo los conceptos básicos a través de la práctica.
 
 
@@ -112,7 +112,7 @@ En Mechatronicstore.cl
 **Descripción de la sesión:** Cada participante demuestra el funcionamiento de su kit en relación con el proyecto STEAM diseñado. Posteriormente reciben retroalimentación de sus pares y docentes a cargo del taller para introducir mejoras en el ámbito didáctico, electrónico y/o de programación.
 
 #### 7. Inteligencia Artificial en Robótica Educativa
-**Objetivo de la sesión:** Explorar alternativas de programación del kit de robótica a partir del uso de Inteligencia Artificial.
+**Objetivo de la sesión:** Explorar alternativas de programación del kit de robótica a partir del uso de Inteligencia Artificial
 **Descripción de la sesión:** Se demuestran conceptos de programación con IA aplicados al kit de robótica. Luego de ello, se exploran oportunidades de mejora de los proyectos en base al uso de IA.
 
 #### 8. Feria de Robótica Educativa Virtual
