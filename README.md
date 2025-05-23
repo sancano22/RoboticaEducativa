@@ -20,7 +20,7 @@ Queremos invitarte a que te conviertas en **agente de cambio en tu escuela**, a 
 Aquí no solo vas a aprender robótica. 
 Vas a vivir la robótica como una experiencia educativa transformadora.
 Bienvenido y bienbenida al desafío de llevar la educación al siguiente nivel. 
-Bienvenido al Diplomado en Robótica Educativa desde un enfoque STEM.
+Bienvenido al Diplomado en Robótica Educativa desde un enfoque STEM dictado por las Escuelas de Informática y Pedagogía de la Pontificia Universidad Católica de Valparaíso (Chile)
 
 
 **¿Por qué este Diplomado?**
