@@ -56,6 +56,12 @@ Capacitar al Profesorado Escolar en el diseño, construcción y programación de
 - Capacitar en diseño, impresión 3D y electrónica aplicada.
 - Aplicar programación (incluida inteligencia artificial) a proyectos robóticos educativos.
 
+**💡 Metodología Práctica**
+- Aprender haciendo: proyectos reales desde la primera semana.
+- Trabajo guiado por docentes expertos.
+- Evaluaciones centradas en tus avances y propuestas.
+
+
 ## Kit de Robótica Educativa
  - Arduino Nano o Arduino Nano IoT
  - 2 mini-servos SG90
