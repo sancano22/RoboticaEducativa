@@ -88,18 +88,22 @@ En Mechatronicstore.cl
 ## Módulos
 #### 1. Innovación Tecnológica en el Aula desde una perspectiva STEM
 **Objetivo de la sesión:** Reconocer la robótica educativa en un contexto internacional de innovación tecnológico-educativa.
+
 **Descripción de la sesión:** Se abordan los conceptos de innovación aplicados a la educación, con un enfoque en la educación especial y de oficios, a través de experiencias desarrolladas. Posteriormente se introducirá la robótica educativa desde una perspectiva STEM. Se presentará el robot educativo móvil que acompañará el desarrollo práctico durante todo el diplomado.
 
 #### 2. Planificación Didáctica con enfoque STEM aplicada a la robótica educativa.
 **Objetivo de la sesión:** Esbozar una secuencia didáctica integrando la robótica educativa y la metodología STEM.
+
 **Descripción de la sesión:** Se presenta STEM como una metodología activa interdisciplinaria, explorando las oportunidades que ofrece desde de la robótica educativa. Luego, se guiará a los participantes en la etapa inicial de planificación de sus proyectos didácticos.
 
 #### 3. Diseño e Impresión 3D para Robótica Educativa
 **Objetivo de la sesión:** Comprender las bases del diseño y la impresión 3D aplicadas a la robótica educativa.
+
 **Descripción de la sesión:** Se muestran los distintos componentes del robot y los elementos clave en su diseño, analizando las instrucciones de ejecución de este a partir de un ejemplo práctico. Posteriormente se identifican posibilidades de modificación de las piezas del robot en función de las necesidades de uso.
 
 #### 4. Electrónica Básica aplicada a la robótica
-**Objetivo de la sesión:** Construir un kit de robótica educativa a partir de la aplicación de conocimientos de electrónica básica
+**Objetivo de la sesión:** Construir un kit de robótica educativa a partir de la aplicación de conocimientos de electrónica básica.
+
 **Descripción de la sesión:** Se detallan conceptos básicos de electrónica, incluyendo sensores, actuadores, lógica digital y protoboard, además de una introducción a la programación de Arduino. En segunda instancia Los participantes comenzarán a construir sus kits, comprendiendo los conceptos básicos a través de la práctica.
 
 
