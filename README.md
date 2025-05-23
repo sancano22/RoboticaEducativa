@@ -66,6 +66,7 @@ Capacitar al Profesorado Escolar en el diseño, construcción y programación de
  - Buzzer (zumbador piezoeléctrico)
  - Ultrasonido HC-SR04
  - Piezas en 3D
+ - Mini-Interruptor Rocker 2 posiciones
 
  <p align="center">
 <img src="robot.png" alt="Robótica Educativa" width="300">
