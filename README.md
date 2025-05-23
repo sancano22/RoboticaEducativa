@@ -65,8 +65,9 @@ Capacitar al Profesorado Escolar en el diseño, construcción y programación de
  - PortaBateria para 2 celdas 18650
  - Buzzer (zumbador piezoeléctrico)
  - Ultrasonido HC-SR04
+ - Interruptor Rocker 2 posiciones
  - Piezas en 3D
- - Mini-Interruptor Rocker 2 posiciones
+
 
  <p align="center">
 <img src="robot.png" alt="Robótica Educativa" width="300">
