@@ -3,10 +3,13 @@
 2. [Objetivos](#objetivos)
 3. [Kit de Robótica Educativa](#kit-de-robótica-educativa)
 4. [Módulos](#módulos)
+5. [Broucher](https://github.com/sancano22/RoboticaEducativa/blob/main/Brochure.pdf)
 
 <p align="center">
 <img src="imagen1.png" alt="Robótica Educativa" width="300">
 </p>
+
+
 
 **La educación está cambiando** y con ella, cambian nuestras aulas, nuestros estudiantes ....y también nosotros los docentes. 
 
