@@ -78,7 +78,9 @@ Capacitar al Profesorado Escolar en el diseño, construcción y programación de
  - HC-05
  - Cables Dupont Macho-Hembra 20cm
  - Cables Dupont Macho-macho 20cm
- 
+
+ Los modelos 3D se encuentran [aquí][https://github.com/sancano22/RoboticaEducativa/tree/main/Modelo3D]
+
  <p align="center">
 <img src="robot2.jpg" alt="Robótica Educativa" width="300">
 </p>
