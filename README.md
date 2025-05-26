@@ -39,16 +39,16 @@ A docentes como tú, que creen en una educación más activa, más práctica, m�
 
 
 ## Datos Generales
-- Duración: 93 horas
-- Modalidad: Virtual
-- Horario:
+- **Duración:** 93 horas
+- **Modalidad:** Virtual
+- **Horario:**
         Viernes: 19:00 – 22:15
         Sábado: 10:00 – 13:15
         (con break de 15 minutos por sesión)
-    Compatible con tu horario laboral
-- Público objetivo: Profesorado Escolar, e interesado en aprender en robótica educativa.
-- Fecha de Inicio: Agosto 8 del 2025
-- Fecha Fin:  Diciembre 6 del 2025
+    **Compatible con tu horario laboral**
+- **Público objetivo:** Profesorado Escolar, e interesado en aprender en robótica educativa.
+- **Fecha de Inicio:** Agosto 8 del 2025
+- **Fecha Fin:**  Diciembre 6 del 2025
 
 ## Objetivos
 **🎯 Objetivo General**
