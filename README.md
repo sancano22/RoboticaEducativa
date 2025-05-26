@@ -47,6 +47,8 @@ A docentes como tú, que creen en una educación más activa, más práctica, m�
         (con break de 15 minutos por sesión)
     Compatible con tu horario laboral
 - Público objetivo: Profesorado Escolar, e interesado en aprender en robótica educativa.
+- Fecha de Inicio: Agosto 8 del 2025
+- Fecha Fin:  Diciembre 6 del 2025
 
 ## Objetivos
 **🎯 Objetivo General**
@@ -78,6 +80,7 @@ Capacitar al Profesorado Escolar en el diseño, construcción y programación de
  - HC-05
  - Cables Dupont Macho-Hembra 20cm
  - Cables Dupont Macho-macho 20cm
+ - Cable mini-usb para programar el Arduino Nano.
 
  Los modelos 3D se encuentran [Aquí](https://github.com/sancano22/RoboticaEducativa/tree/main/Modelo3D)
 
