@@ -65,20 +65,22 @@ Capacitar al Profesorado Escolar en el diseño, construcción y programación de
 
 -----
 ## Kit de Robótica Educativa
- - Arduino Nano o Arduino Nano IoT
- - 2 mini-servos SG90
+ - Arduino Nano 
+ - 2 mini-servos MG90 **giro continuo** (engranajes metálicos)
  - Módulo RGB 8 Leds
- - Shield con terminales para Arduino Nano
+ - Shield de extensión Arduino Nano
  - 2 baterias 18650 
- - PortaBateria para 2 celdas 18650
+ - PortaBateria con conector jack para 2 celdas 18650
  - Buzzer (zumbador piezoeléctrico)
  - Ultrasonido HC-SR04
  - Interruptor Rocker 2 posiciones
  - Piezas en 3D
-
-
+ - HC-05
+ - Cables Dupont Macho-Hembra 20cm
+ - Cables Dupont Macho-macho 20cm
+ 
  <p align="center">
-<img src="robot.png" alt="Robótica Educativa" width="300">
+<img src="robot2.jpg" alt="Robótica Educativa" width="300">
 </p>
 
 **¿Dónde puedes adquirir el Kit?**
