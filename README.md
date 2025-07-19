@@ -71,7 +71,7 @@ Capacitar al Profesorado Escolar en el diseño, construcción y programación de
 -----
 ## Kit de Robótica Educativa
  - Arduino Nano 
- - 2 mini-servos MG90 **giro continuo** (engranajes metálicos)
+ - 2 mini-servos MG90 **giro continuo** (engranajes metálicos) alternativa SG90
  - Módulo RGB 8 Leds
  - Shield de extensión Arduino Nano
  - 2 baterias 18650 
@@ -79,11 +79,15 @@ Capacitar al Profesorado Escolar en el diseño, construcción y programación de
  - Buzzer (zumbador piezoeléctrico)
  - Ultrasonido HC-SR04
  - Interruptor Rocker 2 posiciones
- - Piezas en 3D
- - HC-05
  - Cables Dupont Macho-Hembra 20cm
- - Cables Dupont Macho-macho 20cm
+ - Cables Dupont Macho-Macho 20cm
+ - Cables Dupont Hembra-Hembra 20cm
  - Cable mini-usb para programar el Arduino Nano.
+ - Piezas en 3D
+
+ **Opcional**
+  - HC-05 **(módulo bluetooth)**
+  - Control Remoto Infrarrojo (IR)
 
  Los modelos 3D se encuentran [Aquí](https://github.com/sancano22/RoboticaEducativa/tree/main/Modelo3D)
 
